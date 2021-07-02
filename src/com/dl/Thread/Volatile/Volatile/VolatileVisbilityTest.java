@@ -1,4 +1,4 @@
-package com.dl.Thread.Volatile;
+package com.dl.Thread.Volatile.Volatile;
 
 /**/
 public class VolatileVisbilityTest {
